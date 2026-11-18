@@ -135,7 +135,7 @@ export function drawTitle(ctx, G) {
   ctx.fillStyle = '#fff'; ctx.font = 'bold 26px sans-serif';
   ctx.fillText('A Mara Quinn Story — Open-World Crime', vw / 2, 195);
   ctx.fillStyle = '#ffe9a0'; ctx.font = '16px sans-serif';
-  ctx.fillText('15 missions · 12 districts · 12 cars · 3 boats · casino · metro · properties', vw / 2, 230);
+  ctx.fillText('15 missions · 14 districts · 12 cars · 3 boats · casino · metro · properties', vw / 2, 230);
   ctx.fillStyle = 'rgba(0,0,0,0.45)';
   ctx.fillRect(vw / 2 - 260, 270, 520, 190);
   ctx.fillStyle = '#fff'; ctx.font = '15px sans-serif'; ctx.textAlign = 'left';

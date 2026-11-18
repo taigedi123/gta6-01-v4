@@ -8,7 +8,7 @@ Solmar Bay — A Mara Quinn Story. An original open-world crime game built by an
 
 ## The game
 
-Mara Quinn, ex-street-racer turned fixer, climbs from harbor errands to taking down the Gull syndicate across **15 story missions** in **Solmar Bay**, a sun-soaked coastal city of **12 districts** (Old Harbor, Marina Bay, Casino Row, Downtown, The Strip, Sunset Beach, Airport Fields and more).
+Mara Quinn, ex-street-racer turned fixer, climbs from harbor errands to taking down the Gull syndicate across **15 story missions** in **Solmar Bay**, a sun-soaked coastal city of **14 districts** (Old Harbor, Marina Bay, Casino Row, Downtown, The Strip, Sunset Beach, Airport Fields and more).
 
 - **Open world on foot and by car** — steal and drive **12 cars**, sail **3 boats** in the harbor and marina, ride the **metro loop** (6 stations)
 - **Wanted system** — 0–5 stars, foot cops, ramming cop cars, roadblocks of heat, and a **police helicopter** at 4+ stars; hide to lose the heat, or get busted
